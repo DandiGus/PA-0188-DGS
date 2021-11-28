@@ -1,1 +1,2 @@
-"# 0188-DGS" 
+# 0188-DGS
+G231190188 - Dandi Gus Safitri
